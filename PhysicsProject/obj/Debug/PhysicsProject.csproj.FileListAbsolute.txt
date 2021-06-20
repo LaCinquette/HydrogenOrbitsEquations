@@ -1,0 +1,10 @@
+F:\ITMO\PhysicsProject\PhysicsProject\bin\Debug\PhysicsProject.exe.config
+F:\ITMO\PhysicsProject\PhysicsProject\bin\Debug\PhysicsProject.exe
+F:\ITMO\PhysicsProject\PhysicsProject\bin\Debug\PhysicsProject.pdb
+F:\ITMO\PhysicsProject\PhysicsProject\obj\Debug\PhysicsProject.csprojAssemblyReference.cache
+F:\ITMO\PhysicsProject\PhysicsProject\obj\Debug\PhysicsProject.Form1.resources
+F:\ITMO\PhysicsProject\PhysicsProject\obj\Debug\PhysicsProject.Properties.Resources.resources
+F:\ITMO\PhysicsProject\PhysicsProject\obj\Debug\PhysicsProject.csproj.GenerateResource.cache
+F:\ITMO\PhysicsProject\PhysicsProject\obj\Debug\PhysicsProject.csproj.CoreCompileInputs.cache
+F:\ITMO\PhysicsProject\PhysicsProject\obj\Debug\PhysicsProject.exe
+F:\ITMO\PhysicsProject\PhysicsProject\obj\Debug\PhysicsProject.pdb
